@@ -1,9 +1,9 @@
 # Machine Learning Project: Dataset Analysis and Modeling
-This repository contains a machine learning project that focuses on analyzing and modeling a given dataset. The project involves various stages, including data loading, preprocessing, feature engineering, model training, and evaluation. This project was the capstone project for Summer Analytics 2023 by IIT Guwahati.
+This repository contains a machine learning project that focuses on analyzing and modeling a given dataset. The project involves various stages, including data loading, preprocessing, feature engineering, model training, and evaluation. This project was the capstone project for Summer Analytics 2023, organised by the Consulting and Analytics Club, IIT Guwahati.
 
 <h2>Project Overview</h2>
 
-- The goal of this project is to develop predictive models for a specific task using machine learning techniques. The datasets used in this project were provided by Summaer Analytics IIT-G. The target variable 'pred' represents the predicted outcome or class label that we aim to predict using machine learning models. 
+- The goal of this project is to develop predictive models for a specific task using machine learning techniques. The datasets used in this project were provided by the Consulting and Analytics Club, IIT Guwahati. The target variable 'pred' represents the predicted outcome or class label that we aim to predict using machine learning models. 
 - The goal of this project is to develop predictive models using machine learning techniques to accurately predict the value of the target variable based on the given features.
 - By analyzing and modeling this dataset, we aim to gain insights into the underlying patterns and relationships within the data and build models that can make reliable predictions for the target variable. The performance of the models will be evaluated using metrics such as precision, recall, and F1 score to assess their effectiveness in solving the given task.
 
